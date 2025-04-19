@@ -1,6 +1,6 @@
 {
   "name": "formik-date-picker",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Allows the usage of Formik with react-datepicker",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -24,8 +24,7 @@
   "homepage": "https://github.com/SeanEngineering/formik-date-picker#readme",
   "dependencies": {
     "formik": "^2.4.6",
-    "react-datepicker": "^8.3.0",
-    "react-day-picker": "^9.6.7"
+    "react-datepicker": "^8.3.0"
   },
   "devDependencies": {
     "tsup": "^8.4.0",
